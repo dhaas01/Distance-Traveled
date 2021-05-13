@@ -1,0 +1,10 @@
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Distance Traveled (3)\Distance Traveled\bin\Debug\Distance Traveled.exe.config
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Distance Traveled (3)\Distance Traveled\bin\Debug\Distance Traveled.exe
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Distance Traveled (3)\Distance Traveled\bin\Debug\Distance Traveled.pdb
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Distance Traveled (3)\Distance Traveled\obj\Debug\Distance Traveled.csprojAssemblyReference.cache
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Distance Traveled (3)\Distance Traveled\obj\Debug\Distance_Traveled.Form1.resources
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Distance Traveled (3)\Distance Traveled\obj\Debug\Distance_Traveled.Properties.Resources.resources
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Distance Traveled (3)\Distance Traveled\obj\Debug\Distance Traveled.csproj.GenerateResource.cache
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Distance Traveled (3)\Distance Traveled\obj\Debug\Distance Traveled.csproj.CoreCompileInputs.cache
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Distance Traveled (3)\Distance Traveled\obj\Debug\Distance Traveled.exe
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Distance Traveled (3)\Distance Traveled\obj\Debug\Distance Traveled.pdb
